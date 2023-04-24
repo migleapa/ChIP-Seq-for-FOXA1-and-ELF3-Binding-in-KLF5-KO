@@ -1,4 +1,4 @@
-# ChiP-Seq-for-FOXA1-and-ELF3-Binding-in-KLF5-KO
+# ChIP-Seq-for-FOXA1-and-ELF3-Binding-in-KLF5-KO
 
 FASTQ file "CAPAN1_H3K9me3_chr12.fq" (CAPAN1 cell line) was used:
 
